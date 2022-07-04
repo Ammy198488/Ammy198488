@@ -1,4 +1,4 @@
-Hi 👋 My name is Amarachukwu Nwandu
+Hi 👋 My name is Amarachukwu
 ===================================
 
 Front-end developer/Canva designer
