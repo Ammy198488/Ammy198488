@@ -7,7 +7,7 @@ Front-end developer/Canva designer
 Self-taught front-end developer with a strong eye for innovative design and a keen understanding of techniques geared toward optimum user experience.
 
 * 🌍  I'm based in Nigeria
-* 🧠  I'm learning React js
+* 🧠  I'm learning React js & Next js
 * ⚡  UN SDG enthusiast, volunteer and Traveller 🤗
 
 ### Skills
